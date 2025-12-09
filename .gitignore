@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+
+# 数据集 (太大了，不要上传)
+data/imgs/
+data/masks/
+
+# 训练产物 (模型文件很大，建议用网盘链接，或者只传轻量的)
+checkpoints/
+*.pth
+
+# 预测结果
+prediction_results/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+```
