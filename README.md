@@ -8,7 +8,7 @@ UNet语义分割项目 - WHU-BuldingDataset数据集
 
 项目来源
 
-原始代码基于开源项目 [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)（MIT协议）
+原始代码基于开源项目 [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet/tree/v1.0)
 
 本项目在原始代码基础上进行了深度的工程化改进，主要针对WHU-BuldingDataset数据集进行了优化，解决了训练效率、结果可复现性和预测可视化等问题。
 
